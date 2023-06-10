@@ -25,7 +25,7 @@ function Experience() {
         // 'I had experience working on a large codebase utilizing Kibana and Elasticsearch.',
         "Throughout my work, I've utilized various technologies, including VBScript, UFT, WScript, Cucumber, Testing plan, among others.",
         // "I've also managed a small team that includes Frontend Developers, Backend Developers, and UI/UX Developers.",
-        "Additionally, I've participated on many meeting of team company with the client.",
+        "Additionally, I've participated on many meeting of team company with the customer.",
       ],
     },
     {

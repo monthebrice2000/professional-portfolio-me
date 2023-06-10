@@ -36,7 +36,7 @@ function About() {
           <p className="about-grid-info-text">
             Fast-forward to today, I specialize in designing, developing,
             automating and monitoring high-quality solutions that delight our
-            clients and exceed their expectations at Rapidops.{' '}
+            clients and exceed their expectations.{' '}
             {/* <Link href="https://rapidops.com" className="link" target="_blank">
               Rapidops.
             </Link> */}
@@ -48,9 +48,9 @@ function About() {
             operate full-stack applications.
           </p>
           <p className="about-grid-info-text">
-            I am also working on a new project called ******, aimed at enhancing
-            testing development skills to complete my fullstack development
-            skills.
+            I am also working on a new project called building automation
+            testing framework, aimed at enhancing testing development skills to
+            complete my fullstack development skills.
           </p>
           <p className="about-grid-info-text">
             Here are a few technologies I’ve been working with recently:

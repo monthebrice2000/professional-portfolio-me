@@ -55,7 +55,7 @@ function Projects() {
       projectLink:
         'https://github.com/monthebrice2000/github-actions-ci-cd-workflow',
       projectDescription:
-        'About With github actions, this project presents the templates to build and deploy our applications on the azure cloud in a continuous way without forgetting to manage the continuous integration.',
+        'With github actions, this project presents the templates to build and deploy our applications on the azure cloud in a continuous way without forgetting to manage the continuous integration.',
       projectTech: [
         'Microsoft Azure',
         'Github Actions',
